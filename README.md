@@ -20,7 +20,7 @@ Forget about manually editing text files. With SubSync, you can see the audio wa
 
 * **Customizable Themes:** Switch between the dark (default) and light themes to adapt the interface to your preference.
 
-* **Integrated Translation:** Quickly translate subtitles thanks to integration with the MyMemory API.
+* **Integrated Translation:** Quickly translate subtitles thanks to integration with the [MyMemory API](https://mymemory.translated.net/).
 
 * **Autosave:** Don't worry about losing your work. The application automatically saves the state in your browser.
 
