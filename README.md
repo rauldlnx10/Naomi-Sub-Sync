@@ -46,16 +46,6 @@ Forget about manually editing text files. With SubSync, you can see the audio wa
 
 * **Web Audio API** (for waveform visualization)
 
-## 🤝 Contributions
-
-Advanced SubSync is an open-source project! If you want to help, you are more than welcome. You can:
-
-* Report bugs.
-
-* Suggest new features.
-
-* Submit pull requests with code improvements.
-
 ## 💖 Donations
 
 If you find this tool useful and want to support its development, you can buy me a coffee via PayPal. Every donation is greatly appreciated.
