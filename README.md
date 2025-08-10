@@ -18,8 +18,6 @@ Forget about manually editing text files. With SubSync, you can see the audio wa
 
 * **Integrated Translation:** Quickly translate subtitles thanks to integration with the [MyMemory API](https://mymemory.translated.net/).
 
-* **Autosave:** Don't worry about losing your work. The application automatically saves the state in your browser.
-
 * **Offline Mode:** Works entirely in your browser, with no internet connection required (once the page has loaded).
 
 ## 🛠️ How to Use
