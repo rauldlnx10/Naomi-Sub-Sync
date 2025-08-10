@@ -22,12 +22,6 @@ Forget about manually editing text files. With SubSync, you can see the audio wa
 3. **Synchronize:** Use the timeline to drag the subtitle blocks to the correct position. You can also click on them and use keyboard shortcuts for finer adjustments.
 4. **Save:** Once you are satisfied with the results, click the "Save Subtitles" button to download the synchronized subtitle file.
 
-## 🚀 Technologies Used
-* **HTML5**
-* **CSS3** (with CSS variables for themes)
-* **Vanilla JavaScript** (for all the logic)
-* **Web Audio API** (for waveform visualization)
-
 ## 💖 Donations
 If you find this tool useful and want to support its development, you can buy me a coffee via PayPal. Every donation is greatly appreciated.
 [Donate with PayPal](https://www.paypal.com/donate/?business=TQRD9HTEL6CC8&no_recurring=0&currency_code=EUR)
