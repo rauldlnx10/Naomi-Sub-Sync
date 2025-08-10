@@ -1,5 +1,5 @@
 # Advanced SubSync
-![Screen](https://github.com/rauldlnx10/Naomi-Sub-Sync/blob/main/Captura%20de%20pantalla%202025-08-10%20212110.png))
+![Screen](https://github.com/rauldlnx10/Naomi-Sub-Sync/blob/main/Screen.png))
 
 ## 📖 Project Description
 
