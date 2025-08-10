@@ -7,7 +7,7 @@ Welcome to Advanced SubSync!
 Advanced SubSync is a modern, open-source web tool designed to simplify the process of synchronizing subtitles with videos. Through an intuitive user interface, it allows users to upload a video and a subtitle file to visually and precisely adjust the timings.
 
 Forget about manually editing text files. With SubSync, you can see the audio waveform, drag and drop subtitles, and make fine adjustments with keyboard shortcuts for an incredibly fast and efficient workflow.
-
+![Screen](Captura de pantalla 2025-08-10 212110.png)
 ## 🌟 Key Features
 
 * **Intuitive Interface:** A visual timeline that displays subtitles and the audio waveform.
