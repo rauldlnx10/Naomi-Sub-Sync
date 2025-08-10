@@ -14,11 +14,7 @@ Forget about manually editing text files. With SubSync, you can see the audio wa
 
 * **Precise Adjustment:** Move and resize subtitles directly on the timeline with your mouse.
 
-* **Keyboard Shortcuts:** A complete set of shortcuts for tasks like moving subtitles, advancing or rewinding the video, and more.
-
-* **Multiple Formats:** Support for common subtitle files such as `.srt`, `.vtt`, and `.ass`.
-
-* **Customizable Themes:** Switch between the dark (default) and light themes to adapt the interface to your preference.
+* **Multiple Formats:** Support for common subtitle files such as `.srt` and `.vtt`.
 
 * **Integrated Translation:** Quickly translate subtitles thanks to integration with the [MyMemory API](https://mymemory.translated.net/).
 
